@@ -81,6 +81,7 @@ add a method to an existed class
 ### self class > module > superclass
 
 ### some plugin
+
 *kaminari
 *bootstrap-sass
 *devise
