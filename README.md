@@ -66,3 +66,14 @@ equal to
 > end
 
 >end
+
+
+add a method to an existed class
+
+class String
+  def is_email?(email)
+    ....
+  end
+end
+
+"aaa@gmail.com".is_email?
