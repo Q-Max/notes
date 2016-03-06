@@ -77,3 +77,5 @@ add a method to an existed class
   end
 
   "aaa@gmail.com".is_email?
+
+### self class > module > superclass
