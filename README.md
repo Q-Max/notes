@@ -79,3 +79,8 @@ add a method to an existed class
   "aaa@gmail.com".is_email?
 
 ### self class > module > superclass
+
+### some plugin
+*kaminari
+*bootstrap-sass
+*devise
