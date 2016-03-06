@@ -57,23 +57,23 @@ equal to
 
 equal to 
 
->class Girl
-
-> def self.age
-
->   @age
-
-> end
-
->end
+  class Girl
+  
+   def self.age
+  
+     @age
+  
+   end
+  
+  end
 
 
 add a method to an existed class
 
->class String
-  def is_email?(email)
-    ....
+  class String
+    def is_email?(email)
+      ....
+    end
   end
-end
 
-"aaa@gmail.com".is_email?
+  "aaa@gmail.com".is_email?
