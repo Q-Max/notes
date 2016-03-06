@@ -70,7 +70,7 @@ equal to
 
 add a method to an existed class
 
-class String
+>class String
   def is_email?(email)
     ....
   end
